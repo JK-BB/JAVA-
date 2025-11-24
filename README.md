@@ -160,7 +160,7 @@ Move to JSON or database storage
 Build a GUI-based desktop application
 
 
-Enhance search & filtering
+Enhance search & filtering.
 
 
 
